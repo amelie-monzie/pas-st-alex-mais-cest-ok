@@ -10,7 +10,7 @@ import { game6_finale_bouquet} from "./games/game6_final_bouquet.js";
 
 const app = document.getElementById("app");
 
-const FLOW = [game0_robot, game1_captcha, game2_puzzle game3_qcm, game4_finale, game5_signature, game6_finale_bouquet];
+const FLOW = [game0_robot, game1_captcha, game2_puzzle, game3_qcm, game4_finale, game5_signature, game6_finale_bouquet];
 
 let current = null;
 let step = 0;
